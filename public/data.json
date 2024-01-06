@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "name": "Tres enanos y pico",
+        "author":"Angel Sanchidrian",
+        "price":10,
+        "img":"https://imgs.search.brave.com/NZ49bU0t2wYIlWoQAHFvzQyQrumKHM0q2mFfgwyXcs8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDEtTEJqLTQzS0wu/anBn",
+        "quanty": 1
+    },
+    {
+        "id":2,
+        "name": "El dios asesinado en servivio de caballeros",
+        "author":"Sergio S. Moran",
+        "price":20,
+        "img":"https://imgs.search.brave.com/_3tcrcura1oSUR4aprM7Adg4t1sM32luKFcj07c0hio/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/bGFjYXNhZGVlbC5u/ZXQvd3AtY29udGVu/dC91cGxvYWRzLzIw/MTYvMDUvZWwtZGlv/cy1hc2VzaW5hZG8t/ZW4tZWwtc2Vydmlj/aW8tZGUtY2FiYWxs/ZXJvcy5qcGc",
+        "quanty": 1
+    },
+    {
+        "id":3,
+        "name": "Jojo´s bizarre adventure: Phantom Blood",
+        "author":"Hirohiko Araki",
+        "price":15,
+        "img":"https://imgs.search.brave.com/E3SCDisqtHRSXNL2eOpzGWzziOqpGAtCgs7tuEDxYfE/rs:fit:860:0:0/g:ce/aHR0cDovL3d3dy5n/dWlhZG9zcXVhZHJp/bmhvcy5jb20vZWRp/Y2FvL1Nob3dJbWFn/ZS5hc3B4P2lkPTE0/MDgyOSZwYXRoPWpv/MDExMTIzMDFfMTQw/ODI5LmpwZyZ3PTQw/MCZoPTU4Mw",
+        "quanty": 1
+    },
+    {
+        "id":4,
+        "name": "Origen",
+        "author":"Dann Brown",
+        "price":35,
+        "img":"https://imgs.search.brave.com/idBwqE5fmC7XZrBaNucVs5r7hdIc8Aae4yhQLI8HDIU/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vYW5hbGlz/dGFkZWxpYnJvcy5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTgvMDEvT3JpZ2Vu/LURhbi1Ccm93bi1Q/b3J0YWRhLmpwZz9y/ZXNpemU9NDQ4LDY0/MCZzc2w9MQ",
+        "quanty": 1
+    }
+]
